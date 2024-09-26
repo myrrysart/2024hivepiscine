@@ -1,0 +1,9 @@
+rush-02
+debug-02
+a.out
+*.swp
+*vscode*
+*testmain.c
+*.o
+*.do
+*breaks
